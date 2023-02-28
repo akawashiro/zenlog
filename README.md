@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/omakoto/zenlog.svg?branch=master)](https://travis-ci.org/omakoto/zenlog)
 
 # Zenlog -- no more tee-ing.
+# This is a fork from [https://github.com/akawashiro/zenlog](https://github.com/akawashiro/zenlog).
 
 **2020-02-22 NOTE: Looks like Go stopped putting the source file under `$HOME/go/src`.**
 **Without it, the external subcommands like `zenlog init`, etc will not work**
