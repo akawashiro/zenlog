@@ -1,7 +1,7 @@
 package util
 
 import (
-	"github.com/omakoto/go-common/src/utils"
+	"github.com/akawashiro/go-common/src/utils"
 	"io/ioutil"
 	"os"
 	"strconv"

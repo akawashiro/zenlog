@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/omakoto/zenlog.svg?branch=master)](https://travis-ci.org/omakoto/zenlog)
-
 # Zenlog -- no more tee-ing.
 # This is a fork from [https://github.com/akawashiro/zenlog](https://github.com/akawashiro/zenlog).
 
@@ -29,7 +27,7 @@ comes with an installation script that supports both Bash and Zsh.
 
 # How it works
 
-[See the readme of the old version.](https://github.com/omakoto/zenlog-legacy)
+[See the readme of the old version.](https://github.com/akawashiro/zenlog-legacy)
 
 Zenlog uses the same idea as the previous perl/ruby versions,
 but is a complete write in Go, and no longer relies on script(1), and 
@@ -46,7 +44,7 @@ Example:
 ```
 mkdir $HOME/src
 cd $HOME/src
-git clone https://github.com/omakoto/zenlog.git
+git clone https://github.com/akawashiro/zenlog.git
 ./zenlog/scripts/install.sh
 ```
 ... And add `export ZENLOG_SRC_DIR=$HOME/src/zenlog/` to your `.*shrc`.
@@ -218,5 +216,5 @@ will be a symbolic link to the most recent "full build" output.
  - See [this directory](subcommands/) for more (external) subcommands.
    [This file](zenlog/builtins/builtins.go) contains more "buildin" subcommands.  
 
-[See also the readme of the old version.](https://github.com/omakoto/zenlog)
+[See also the readme of the old version.](https://github.com/akawashiro/zenlog)
 

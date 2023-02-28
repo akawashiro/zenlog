@@ -2,9 +2,9 @@ package logger
 
 import (
 	"fmt"
-	"github.com/omakoto/go-common/src/utils"
-	"github.com/omakoto/zenlog/zenlog/config"
-	"github.com/omakoto/zenlog/zenlog/util"
+	"github.com/akawashiro/go-common/src/utils"
+	"github.com/akawashiro/zenlog/zenlog/config"
+	"github.com/akawashiro/zenlog/zenlog/util"
 	"time"
 )
 

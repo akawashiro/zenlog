@@ -5,11 +5,11 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/omakoto/go-common/src/fileutils"
-	"github.com/omakoto/go-common/src/shell"
-	"github.com/omakoto/zenlog/zenlog/builtins/history"
-	"github.com/omakoto/zenlog/zenlog/config"
-	"github.com/omakoto/zenlog/zenlog/util"
+	"github.com/akawashiro/go-common/src/fileutils"
+	"github.com/akawashiro/go-common/src/shell"
+	"github.com/akawashiro/zenlog/zenlog/builtins/history"
+	"github.com/akawashiro/zenlog/zenlog/config"
+	"github.com/akawashiro/zenlog/zenlog/util"
 )
 
 // CommandLineContext represents "command line context" to detect consecutive calls of the same command.

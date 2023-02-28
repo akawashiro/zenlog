@@ -9,12 +9,12 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/omakoto/zenlog/zenlog/builtins/commandline"
-	"github.com/omakoto/zenlog/zenlog/builtins/history"
-	"github.com/omakoto/zenlog/zenlog/config"
-	"github.com/omakoto/zenlog/zenlog/envs"
-	"github.com/omakoto/zenlog/zenlog/logger"
-	"github.com/omakoto/zenlog/zenlog/util"
+	"github.com/akawashiro/zenlog/zenlog/builtins/commandline"
+	"github.com/akawashiro/zenlog/zenlog/builtins/history"
+	"github.com/akawashiro/zenlog/zenlog/config"
+	"github.com/akawashiro/zenlog/zenlog/envs"
+	"github.com/akawashiro/zenlog/zenlog/logger"
+	"github.com/akawashiro/zenlog/zenlog/util"
 )
 
 // InZenlog true if the current process is running in a zenlog session.

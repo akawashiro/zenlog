@@ -4,9 +4,9 @@ import (
 	"flag"
 	"strconv"
 
-	"github.com/omakoto/go-common/src/utils"
-	"github.com/omakoto/zenlog/zenlog/logger"
-	"github.com/omakoto/zenlog/zenlog/util"
+	"github.com/akawashiro/go-common/src/utils"
+	"github.com/akawashiro/zenlog/zenlog/logger"
+	"github.com/akawashiro/zenlog/zenlog/util"
 )
 
 // startCommand tells zenlog to start logging for a command.

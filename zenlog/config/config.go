@@ -9,10 +9,10 @@ import (
 	"strings"
 
 	"github.com/BurntSushi/toml"
-	"github.com/omakoto/go-common/src/fileutils"
-	"github.com/omakoto/go-common/src/utils"
-	"github.com/omakoto/zenlog/zenlog/envs"
-	"github.com/omakoto/zenlog/zenlog/util"
+	"github.com/akawashiro/go-common/src/fileutils"
+	"github.com/akawashiro/go-common/src/utils"
+	"github.com/akawashiro/zenlog/zenlog/envs"
+	"github.com/akawashiro/zenlog/zenlog/util"
 	"runtime"
 )
 
@@ -220,7 +220,7 @@ func ZenlogSrcTopDir() string {
 		return configSourceDir
 	}
 
-	for _, d := range utils.StringSlice("/../", "/../zenlog/", "/../src/github.com/omakoto/zenlog/") {
+	for _, d := range utils.StringSlice("/../", "/../zenlog/", "/../src/github.com/akawashiro/zenlog/") {
 		candidate := zenlogBinDir + d
 		candidate, err := filepath.Abs(candidate)
 		util.Check(err, "Abs failed")

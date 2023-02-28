@@ -5,12 +5,12 @@ ARG gover=1.14
 FROM debian:latest
 FROM golang:$gover
 
-ARG user=omakoto
+ARG user=akawashiro
 ARG group=user
 ARG home=/home/$user
 ARG shell=/bin/bash
 
-ARG go_target=github.com/omakoto/zenlog/
+ARG go_target=github.com/akawashiro/zenlog/
 
 ENV GOPATH=$home/go/
 ARG copy_target=$GOPATH/src/$go_target

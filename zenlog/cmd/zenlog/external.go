@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/omakoto/zenlog/zenlog/config"
-	"github.com/omakoto/zenlog/zenlog/util"
+	"github.com/akawashiro/zenlog/zenlog/config"
+	"github.com/akawashiro/zenlog/zenlog/util"
 	"os"
 	"path/filepath"
 	"strings"

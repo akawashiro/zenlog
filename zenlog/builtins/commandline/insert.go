@@ -1,10 +1,10 @@
 package commandline
 
 import (
-	"github.com/omakoto/go-common/src/shell"
-	"github.com/omakoto/zenlog/zenlog/builtins/commandline/cc"
-	"github.com/omakoto/zenlog/zenlog/builtins/history"
-	"github.com/omakoto/zenlog/zenlog/util"
+	"github.com/akawashiro/go-common/src/shell"
+	"github.com/akawashiro/zenlog/zenlog/builtins/commandline/cc"
+	"github.com/akawashiro/zenlog/zenlog/builtins/history"
+	"github.com/akawashiro/zenlog/zenlog/util"
 )
 
 // InsertLogBash handles ALT-L for Bash -- first call will insert the last log in the command line, and the subsequent calls

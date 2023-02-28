@@ -3,7 +3,7 @@ package logger
 import (
 	"fmt"
 
-	"github.com/omakoto/zenlog/zenlog/util"
+	"github.com/akawashiro/zenlog/zenlog/util"
 )
 
 // Version of the logger - command communication protocol.

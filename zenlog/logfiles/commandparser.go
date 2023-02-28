@@ -3,9 +3,9 @@ package logfiles
 // Parse a command line and extract executable names and a comment out of it.
 
 import (
-	"github.com/omakoto/go-common/src/shell"
-	"github.com/omakoto/go-common/src/utils"
-	"github.com/omakoto/zenlog/zenlog/config"
+	"github.com/akawashiro/go-common/src/shell"
+	"github.com/akawashiro/go-common/src/utils"
+	"github.com/akawashiro/zenlog/zenlog/config"
 	"path/filepath"
 	"regexp"
 	"strings"
