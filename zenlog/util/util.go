@@ -2,7 +2,7 @@ package util
 
 import (
 	"fmt"
-	"github.com/akawashiro/go-common/src/utils"
+	"github.com/omakoto/go-common/src/utils"
 	"math/rand"
 	"os"
 	"path/filepath"

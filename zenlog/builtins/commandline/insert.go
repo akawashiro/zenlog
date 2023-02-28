@@ -1,7 +1,7 @@
 package commandline
 
 import (
-	"github.com/akawashiro/go-common/src/shell"
+	"github.com/omakoto/go-common/src/shell"
 	"github.com/akawashiro/zenlog/zenlog/builtins/commandline/cc"
 	"github.com/akawashiro/zenlog/zenlog/builtins/history"
 	"github.com/akawashiro/zenlog/zenlog/util"

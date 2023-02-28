@@ -9,8 +9,8 @@ import (
 	"strings"
 
 	"github.com/BurntSushi/toml"
-	"github.com/akawashiro/go-common/src/fileutils"
-	"github.com/akawashiro/go-common/src/utils"
+	"github.com/omakoto/go-common/src/fileutils"
+	"github.com/omakoto/go-common/src/utils"
 	"github.com/akawashiro/zenlog/zenlog/envs"
 	"github.com/akawashiro/zenlog/zenlog/util"
 	"runtime"

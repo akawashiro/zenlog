@@ -1,7 +1,7 @@
 package util
 
 import (
-	"github.com/akawashiro/go-common/src/common"
+	"github.com/omakoto/go-common/src/common"
 	"os"
 	"syscall"
 )

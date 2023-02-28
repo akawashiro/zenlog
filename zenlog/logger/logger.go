@@ -11,9 +11,9 @@ import (
 
 	"github.com/creack/pty"
 	"github.com/mattn/go-isatty"
-	"github.com/akawashiro/go-common/src/shell"
-	"github.com/akawashiro/go-common/src/textio"
-	"github.com/akawashiro/go-common/src/utils"
+	"github.com/omakoto/go-common/src/shell"
+	"github.com/omakoto/go-common/src/textio"
+	"github.com/omakoto/go-common/src/utils"
 	"github.com/akawashiro/zenlog/zenlog/config"
 	"github.com/akawashiro/zenlog/zenlog/envs"
 	"github.com/akawashiro/zenlog/zenlog/logfiles"

@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/akawashiro/go-common/src/utils"
+	"github.com/omakoto/go-common/src/utils"
 	"github.com/akawashiro/zenlog/zenlog/config"
 	"github.com/akawashiro/zenlog/zenlog/logger"
 	"github.com/akawashiro/zenlog/zenlog/util"

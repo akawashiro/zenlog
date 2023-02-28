@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
-	"github.com/akawashiro/go-common/src/fileutils"
+	"github.com/omakoto/go-common/src/fileutils"
 	"github.com/akawashiro/zenlog/zenlog/config"
 	"github.com/akawashiro/zenlog/zenlog/util"
 	"io"

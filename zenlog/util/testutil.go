@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/akawashiro/go-common/src/fileutils"
+	"github.com/omakoto/go-common/src/fileutils"
 )
 
 func Ar(a ...string) []string {

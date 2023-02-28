@@ -1,5 +1,7 @@
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
+github.com/omakoto/go-common v0.0.0-20210223020755-bd49cd9ce44e h1:oOGqrntHEfN1zJFKRH/WXB3GU0D55QHNbtGdgJK7l4Q=
+github.com/omakoto/go-common v0.0.0-20210223020755-bd49cd9ce44e/go.mod h1:20DT00ZbWKJ0zWLC+EllLOeTil+bovjE/0lCyLJ/Y00=
 github.com/creack/pty v1.1.11 h1:07n33Z8lZxZ2qwegKbObQohDhXDQxiMMz1NOUGYlesw=
 github.com/creack/pty v1.1.11/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -8,8 +10,8 @@ github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/mattn/go-isatty v0.0.9 h1:d5US/mDsogSGW37IV293h//ZFaeajb69h+EHFsv2xGg=
 github.com/mattn/go-isatty v0.0.9/go.mod h1:YNRxwqDuOph6SZLI9vUUz6OYw3QyUt7WiY2yME+cCiQ=
 github.com/mattn/go-runewidth v0.0.4/go.mod h1:LwmH8dsx7+W8Uxz3IHJYH5QSwggIsqBzpuz5H//U1FU=
-github.com/akawashiro/go-common v0.0.0-20210223020755-bd49cd9ce44e h1:oOGqrntHEfN1zJFKRH/WXB3GU0D55QHNbtGdgJK7l4Q=
-github.com/akawashiro/go-common v0.0.0-20210223020755-bd49cd9ce44e/go.mod h1:20DT00ZbWKJ0zWLC+EllLOeTil+bovjE/0lCyLJ/Y00=
+github.com/omakoto/go-common v0.0.0-20210223020755-bd49cd9ce44e h1:oOGqrntHEfN1zJFKRH/WXB3GU0D55QHNbtGdgJK7l4Q=
+github.com/omakoto/go-common v0.0.0-20210223020755-bd49cd9ce44e/go.mod h1:20DT00ZbWKJ0zWLC+EllLOeTil+bovjE/0lCyLJ/Y00=
 github.com/pkg/term v0.0.0-20190109203006-aa71e9d9e942 h1:A7GG7zcGjl3jqAqGPmcNjd/D9hzL95SuoOQAaFNdLU0=
 github.com/pkg/term v0.0.0-20190109203006-aa71e9d9e942/go.mod h1:eCbImbZ95eXtAUIbLAuAVnBnwf83mjf6QIVH8SHYwqQ=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=

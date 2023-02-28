@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/akawashiro/go-common/src/utils"
+	"github.com/omakoto/go-common/src/utils"
 	"github.com/akawashiro/zenlog/zenlog"
 	"github.com/akawashiro/zenlog/zenlog/builtins"
 	"github.com/akawashiro/zenlog/zenlog/config"
